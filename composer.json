@@ -2,5 +2,6 @@
     "name": "hibrido/register",
     "description": "Just to register hibrido namespace",
     "type": "library",
+    "license": "MIT",
     "require": {}
 }
